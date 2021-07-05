@@ -1,6 +1,6 @@
 \[[RU](https://github.com/shitkov/bert4classification/blob/main/readme.md)|[EN](https://github.com/shitkov/bert4classification/blob/main/readme_EN.md)\]
 
-[! [Open In Colab] (https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shitkov/bert4classification/blob/main/bert4clssification.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shitkov/bert4classification/blob/main/bert4clssification.ipynb)
 
 # BERT for classification problem
 Quick Start Guide<br>
