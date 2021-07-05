@@ -1,5 +1,8 @@
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/googlecolab/colabtools/blob/master/notebooks/colab-github-demo.ipynb)
-\[[RU](https://github.com/)|[EN](https://github.com/)\]
+
+\[[RU](https://github.com/shitkov/bert4classification/blob/main/readme.md)|[EN](https://github.com/shitkov/bert4classification/blob/main/readme_en.md)\]
+
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shitkov/bert4classification/blob/main/bert4clssification.ipynb)
 
 # BERT для задачи классификации
 Инструкция для быстрого старта<br>
