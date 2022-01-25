@@ -24,6 +24,7 @@ class CustomDataset(Dataset):
         padding='max_length',
         return_attention_mask=True,
         return_tensors='pt',
+        truncation=True
     )
 
     return {
